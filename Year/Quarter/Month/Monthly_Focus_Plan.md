@@ -16,6 +16,12 @@
 -
 -
 
+## Reading List
+
+- [] Book to finish
+- [] Book to finish
+- [] Book (supplemental reading)
+
 ## Contacts (calls/emails to people I need to connect with)
 
 - []
