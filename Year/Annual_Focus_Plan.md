@@ -1,8 +1,12 @@
-# Annual Focus Plan
+# 20xx Focus Plan
 
 ## Purpose / Vision for My Life (carry forward and adjust as it evolves)
 
 -
+
+### Top 5 Forever Goals
+
+- Warren Buffet's 25/5 Rule: Write down your top 25 goals. Now cross out 20 of them. Focus on the remaining 5 for the rest of your life.
 
 ## Vision for my Business or Work Role (carry forward and adjust as it evolves)
 
@@ -83,6 +87,21 @@
 -
 -
 -
+
+## Reading Goals
+
+January: Book 1, Book 2, etc.
+February:
+March:
+April:
+May:
+June:
+July:
+August:
+September:
+October:
+November:
+December: You do have at least 12 books on your shelf that you need to read, right?
 
 ## Top 10 Contacts to make
 
